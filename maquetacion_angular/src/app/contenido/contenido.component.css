@@ -1,0 +1,46 @@
+h4{
+    margin-top: 2% !important;
+    margin-bottom: 2% !important;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.resumen{
+    font-size: medium !important;
+    margin-top: 10% !important;
+    margin-bottom: 15% !important;
+}
+
+.titulo{
+    margin-top: 5% !important;
+}
+
+.valor{
+    font-size: x-large;
+}
+
+.valorUni{
+    font-size: large;
+    font-weight: 600;
+    margin-bottom: 3%;
+}
+
+.col-sm-2{
+    width: auto !important;
+}
+
+.col-sm-3{
+    width: auto !important;
+}
+
+.btn-sm{
+    float: right;
+}
+
+
+.container.art2{
+    margin-left: 0 !important;
+}
+
+.lab{
+    width: auto !important;
+}
